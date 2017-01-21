@@ -1,0 +1,13 @@
+name: root-finding
+version: 0.1.0
+
+authors:
+  - Denys Vitali <denys.vitali@coelis.ch>
+
+targets:
+  root-finding:
+    main: src/root-finding.cr
+
+crystal: 0.20.3
+
+license: MIT
