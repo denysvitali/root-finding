@@ -1,6 +1,8 @@
 # root-finding
 
-TODO: Write a description here
+Root Finding algorithms in Crystal
+This is just a personal project, it is not intended to be a library or else,
+PRs are welcome!
 
 ## Installation
 
@@ -12,11 +14,11 @@ TODO: Write usage instructions here
 
 ## Development
 
-TODO: Write development instructions here
+`crystal run src/root-finding.cr`
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/root-finding/fork )
+1. Fork it ( https://github.com/denysvitali/root-finding/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -24,4 +26,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Denys Vitali - creator, maintainer
+- [denysvitali](https://github.com/denysvitali) Denys Vitali - creator, maintainer
